@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/Arch Linux) (preloaded format=pdflatex 2022.4.15)  20 APR 2022 23:43
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/Arch Linux) (preloaded format=pdflatex 2022.4.15)  22 APR 2022 02:30
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -860,30 +860,30 @@ Package pdftex.def Info: fraungofer_difraction.jpg  used on input line 309.
 <graph2.png, id=165, 627.34375pt x 396.48125pt>
 File: graph2.png Graphic file (type png)
 <use graph2.png>
-Package pdftex.def Info: graph2.png  used on input line 327.
+Package pdftex.def Info: graph2.png  used on input line 328.
 (pdftex.def)             Requested size: 390.0pt x 246.48735pt.
  [11 <./graph2.png>]
-<Fraungofer_two_slots.jpg, id=174, 524.96124pt x 520.94624pt>
+<Fraungofer_two_slots.jpg, id=175, 524.96124pt x 520.94624pt>
 File: Fraungofer_two_slots.jpg Graphic file (type jpg)
 <use Fraungofer_two_slots.jpg>
-Package pdftex.def Info: Fraungofer_two_slots.jpg  used on input line 352.
+Package pdftex.def Info: Fraungofer_two_slots.jpg  used on input line 354.
 (pdftex.def)             Requested size: 312.00119pt x 309.62108pt.
  [12 <./Fraungofer_two_slots.jpg>]
-Overfull \hbox (12.21487pt too wide) in paragraph at lines 379--379
+Overfull \hbox (12.21487pt too wide) in paragraph at lines 384--384
 []\T2A/cmr/bx/n/14.4 ������� ��-����-��� �� ���-��-��-�-��� ���-���-�����
  []
 
 [13]
-<Dual_source.jpg, id=195, 609.77812pt x 523.20468pt>
+<Dual_source.jpg, id=198, 609.77812pt x 523.20468pt>
 File: Dual_source.jpg Graphic file (type jpg)
 <use Dual_source.jpg>
-Package pdftex.def Info: Dual_source.jpg  used on input line 396.
+Package pdftex.def Info: Dual_source.jpg  used on input line 402.
 (pdftex.def)             Requested size: 312.00119pt x 267.70903pt.
 
-./4.3.1 Изучение дифракции света.tex:416: Extra }, or forgotten $.
+./4.3.1 Изучение дифракции света.tex:422: Extra }, or forgotten $.
 <template> \unskip \hfil }
                           \hskip \tabcolsep \hskip -.5\arrayrulewidth \vrule...
-l.416 ... & График & $\varepsilon  \\ \hline
+l.422 ... & График & $\varepsilon  \\ \hline
                                                   
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -891,18 +891,18 @@ you forgot something else, as in `\hbox{$x}'. In such cases
 the way to recover is to insert both the forgotten and the
 deleted material, e.g., by typing `I$}'.
 
-./4.3.1 Изучение дифракции света.tex:416: Missing $ inserted.
+./4.3.1 Изучение дифракции света.tex:422: Missing $ inserted.
 <inserted text> 
                 $
-l.416 ... & График & $\varepsilon  \\ \hline
+l.422 ... & График & $\varepsilon  \\ \hline
                                                   
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-./4.3.1 Изучение дифракции света.tex:416: Missing } inserted.
+./4.3.1 Изучение дифракции света.tex:422: Missing } inserted.
 <inserted text> 
                 }
-l.416 ... & График & $\varepsilon  \\ \hline
+l.422 ... & График & $\varepsilon  \\ \hline
                                                   
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -910,21 +910,19 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-./4.3.1 Изучение дифракции света.tex:417: Missing $ inserted.
+./4.3.1 Изучение дифракции света.tex:423: Missing $ inserted.
 <inserted text> 
                 $
-l.417 			302$~\pm~$5 мкм      & $297,5$~\pm
-                                              ~$ мкм & 1,49\% \\ \hline
+l.423 			302$~\pm~$5 мкм      & $298$~\pm
+                                            ~$6 мкм & 1,49\% \\ \hline
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-[14
-
- <./Dual_source.jpg>]
-./4.3.1 Изучение дифракции света.tex:429: Extra }, or forgotten $.
+[14 <./Dual_source.jpg>]
+./4.3.1 Изучение дифракции света.tex:435: Extra }, or forgotten $.
 <template> \unskip \hfil }
                           \hskip \tabcolsep \hskip -.5\arrayrulewidth \vrule...
-l.429 ...�итанное & $\varepsilon  \\ \hline
+l.435 ...�итанное & $\varepsilon  \\ \hline
                                                   
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -932,18 +930,18 @@ you forgot something else, as in `\hbox{$x}'. In such cases
 the way to recover is to insert both the forgotten and the
 deleted material, e.g., by typing `I$}'.
 
-./4.3.1 Изучение дифракции света.tex:429: Missing $ inserted.
+./4.3.1 Изучение дифракции света.tex:435: Missing $ inserted.
 <inserted text> 
                 $
-l.429 ...�итанное & $\varepsilon  \\ \hline
+l.435 ...�итанное & $\varepsilon  \\ \hline
                                                   
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-./4.3.1 Изучение дифракции света.tex:429: Missing } inserted.
+./4.3.1 Изучение дифракции света.tex:435: Missing } inserted.
 <inserted text> 
                 }
-l.429 ...�итанное & $\varepsilon  \\ \hline
+l.435 ...�итанное & $\varepsilon  \\ \hline
                                                   
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -951,13 +949,18 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-./4.3.1 Изучение дифракции света.tex:430: Missing $ inserted.
+./4.3.1 Изучение дифракции света.tex:436: Missing $ inserted.
 <inserted text> 
                 $
-l.430 			440$~\pm~$10 мкм      & $466$~\pm
-                                             ~$ мкм & 6\% \\ \hline
+l.436 			440$~\pm~$10 мкм      & $466$~\pm
+                                             ~$8 мкм & 6\% \\ \hline
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (8.18567pt too wide) in paragraph at lines 440--441
+[]\T2A/cmr/m/n/12 ���������� ���-�� ��-��� ����-�� ����-��-�� ���-��-��-�� $\OML/cmm/m/it/12 n \OT1/cmr/m/n/12 = 6 \OMS/cmsy/m/n/12 ^^F $\T2A/cmr/m/n/12 0.7,
+ []
 
 [15] (./4.3.1 Изучение дифракции света.aux)
 
@@ -974,12 +977,12 @@ Here is how much of TeX's memory you used:
  486958 words of font info for 67 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  69i,8n,79p,1322b,538s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}{/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc}</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfcc1728.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfcc2074.pfb></usr/share/texmf-dist/fonts/t
-ype1/public/cm-super/sfrm1200.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb>
-Output written on "4.3.1 Изучение дифракции света.pdf" (16 pages, 23217468 bytes).
+{/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}{/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc}</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfcc1728.pfb></usr/share/texmf-dist/fonts/
+type1/public/cm-super/sfcc2074.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb>
+Output written on "4.3.1 Изучение дифракции света.pdf" (16 pages, 23228557 bytes).
 PDF statistics:
- 301 PDF objects out of 1000 (max. 8388607)
- 226 compressed objects within 3 object streams
+ 308 PDF objects out of 1000 (max. 8388607)
+ 231 compressed objects within 3 object streams
  74 named destinations out of 1000 (max. 500000)
  184 words of extra memory for PDF output out of 10000 (max. 10000000)
 
